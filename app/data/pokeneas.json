@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Yveltal",
+    "altura": "5.8 m",
+    "habilidad": "Aura Oscura",
+    "imagen": "https://jigglypuff-pokeneas.s3.amazonaws.com/yveltal.png",
+    "frase": "Pokémon legendario que, al extender sus alas y las plumas de la cola, emite un brillo carmesí que absorbe la energía vital de su enemigo."
+  },
+  {
+    "id": 2,
+    "nombre": "Vaporeon",
+    "altura": "1.0 m",
+    "habilidad": "Absorbe Agua",
+    "imagen": "https://jigglypuff-pokeneas.s3.amazonaws.com/vaporeon.png",
+    "frase": "Oigan, ¿sabían que en términos de reproducción entre..."
+  },
+  {
+    "id": 3,
+    "nombre": "Luxray",
+    "altura": "1.4 m",
+    "habilidad": "Intimidacion",
+    "imagen": "https://jigglypuff-pokeneas.s3.amazonaws.com/luxray.png",
+    "frase": "Puede ver claramente a través de las paredes para buscar a las presas huidas o a sus crías si se pierden."
+  }
+]
