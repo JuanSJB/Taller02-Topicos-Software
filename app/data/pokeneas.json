@@ -22,5 +22,37 @@
     "habilidad": "Intimidacion",
     "imagen": "https://jigglypuff-pokeneas.s3.amazonaws.com/luxray.png",
     "frase": "Puede ver claramente a través de las paredes para buscar a las presas huidas o a sus crías si se pierden."
+  },
+    {
+    "id": 4,
+    "nombre": "Azurill",
+    "altura": "0,2 m",
+    "habilidad": "Sebo",
+    "imagen": "https://jigglypuff-pokeneas.s3.amazonaws.com/azurill.png",
+    "frase": "Rebota como una pelota. Para luchar contra enemigos más grandes, agita la cola en el aire."
+  },
+  {
+    "id": 5,
+    "nombre": "Zorua",
+    "altura": "0,7 m",
+    "habilidad": "Ilusion",
+    "imagen": "https://jigglypuff-pokeneas.s3.amazonaws.com/zorua.png",
+    "frase": "Se transforma en otros para crear desconcierto. A menudo, adopta la forma de un niño parco en palabras."
+  },
+  {
+    "id": 6,
+    "nombre": "Squirtle",
+    "altura": "0,5 m",
+    "habilidad": "Torrente",
+    "imagen": "https://jigglypuff-pokeneas.s3.amazonaws.com/squirtle.png",
+    "frase": "Vamo a calmarno"
+  },
+    {
+    "id": 7,
+    "nombre": "Kingambit",
+    "altura": "2,0 m",
+    "habilidad": "General Supremo",
+    "imagen": "https://jigglypuff-pokeneas.s3.amazonaws.com/kinggambit.png",
+    "frase": "Solo el Bisharp más destacado entre las filas de cada gran ejército tiene el honor de evolucionar a Kingambit."
   }
 ]
